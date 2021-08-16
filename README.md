@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Heestagram
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 01. Project background 🔎
 
-## Available Scripts
+Using the Apollo + with React is good for managing the flow of data across multiple sources. For that reason, I  took an “Instagram Clone Coding with Apollo  & React” class from the Nomad Coder Acadamy. (I already had been taken a class that can be learned the apollo basic, so I have a fundamental ㅁㅐ일 e Apollo). From the course, we can learn the front-end, back-end, and app. However, the front-end lecture did not cover the full function of Instagram. So I developed additional features of Instagram and completed this ‘Heestagram’. Furthermore, I redesign the UX/UI of “Heestagram”. 
 
-In the project directory, you can run:
+## 02. Project feature 📄
 
-### `yarn start`
+We can see a similar feature like Instagram on ‘Heestagram’.
+- Login/Register/Log out
+- Edit profile
+- See Post
+- Upload Post/ Delete Post
+- Like Post
+- Comment Post
+- Follow/ Unfollow User
+- Find Friends
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 03. Project Design 🎨
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+‘Hee stagram' design concept is simple and friendly. 
+The meaning of the Logo is that communicate with my friends every day.
+Through the  gradation of color, I tried to express the diversity
 
-### `yarn test`
+### [DemoSite](https://heestaclone-web.netlify.app/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### How To Use 👏
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/70732062/129497030-8672e638-31d2-4f5d-a9d5-448e91e005d1.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/70732062/129497053-b6b75639-f3de-4749-b69f-9f7fd83e8686.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/70732062/129497101-2373a028-e78b-4074-ac6f-63e13ed3239a.gif)
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
